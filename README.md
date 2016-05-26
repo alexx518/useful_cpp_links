@@ -1,1 +1,4 @@
-# usefull_cpp_links
+# Usefull C++ links
+
+
+https://github.com/boostcon
