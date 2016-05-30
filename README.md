@@ -7,3 +7,4 @@
 * [accu2014] (http://accu.org/index.php/articles/1901) - ACCU 2014 Slides
 * [accu2013] (http://accu.org/index.php/news/1797) - ACCU 2013 Slides
 * [accu2015] (http://accu.org/index.php/articles/2092) - ACCU 2015 Slides
+* [accu2016] (http://www.accu.org/index.php/articles/2234) - ACCU 2016 Videos
