@@ -9,4 +9,4 @@
 * [accu2015] (http://accu.org/index.php/articles/2092) - ACCU 2015 Slides
 * [accu2016] (http://www.accu.org/index.php/articles/2234) - ACCU 2016 Videos
 * [Old STL releases] (http://fr.mirror.babylon.network/gcc/libstdc%2B%2B/old-libg%2B%2B-releases/) - Old STL releases
-* [First STL release] (ftp://ftp.labs.hpe.com/stl/) - First STL release
+* [First STL release] (http://ftp.labs.hpe.com/ftp/stl/) - First STL release
