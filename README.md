@@ -10,3 +10,4 @@
 * [accu2016] (http://www.accu.org/index.php/articles/2234) - ACCU 2016 Videos
 * [Old STL releases] (http://fr.mirror.babylon.network/gcc/libstdc%2B%2B/old-libg%2B%2B-releases/) - Old STL releases
 * [First STL release] (http://ftp.labs.hpe.com/ftp/stl/) - First STL release
+* [FunctionalPlus] (https://github.com/Dobiasd/FunctionalPlus/) - FunctionalPlus
