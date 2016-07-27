@@ -11,3 +11,5 @@
 * [Old STL releases] (http://fr.mirror.babylon.network/gcc/libstdc%2B%2B/old-libg%2B%2B-releases/) - Old STL releases
 * [First STL release] (http://ftp.labs.hpe.com/ftp/stl/) - First STL release
 * [FunctionalPlus] (https://github.com/Dobiasd/FunctionalPlus/) - FunctionalPlus
+* [awesome-modern-cpp] (https://github.com/rigtorp/awesome-modern-cpp) - Awesome Modern C++
+* [awesome-cpp] (https://github.com/fffaraz/awesome-cpp) - Awesome C++
