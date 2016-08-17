@@ -13,3 +13,4 @@
 * [FunctionalPlus] (https://github.com/Dobiasd/FunctionalPlus/) - FunctionalPlus
 * [awesome-modern-cpp] (https://github.com/rigtorp/awesome-modern-cpp) - Awesome Modern C++
 * [awesome-cpp] (https://github.com/fffaraz/awesome-cpp) - Awesome C++
+* [meetingcpp.ru] (http://meetingcpp.ru) - C++ Russia/C++ Siberia
